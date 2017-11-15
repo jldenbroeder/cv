@@ -2,6 +2,7 @@ html, body {
   margin: 0; padding: 0;
   background-image:linear-gradient(60deg, rgb(11, 8, 40), rgb(131, 135, 168));
 }
+
 .main
 {
   display: -ms-flex;
